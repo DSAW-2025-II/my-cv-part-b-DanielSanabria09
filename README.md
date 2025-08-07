@@ -1,4 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Sx8Ozf2d)
+
+# Tarea Entregada
+## Daniel Felipe Sanabria Solano
+## 0000340113
+## Link página:
+https://dsaw-2025-ii.github.io/my-cv-part-b-DanielSanabria09
+
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
